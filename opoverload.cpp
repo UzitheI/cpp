@@ -1,0 +1,4 @@
+//overloading is the process of extending the symantics of an operator in cPP, we cannot change the original meaning completely. More than that, we cannot operate on objects, so we can overlaod the operators to make it possible to work on it
+//operator overloading can be done by using both normal functions and friend functions
+// ----with normal functions we can overload the operator by using +()for unary operator and +(int) for binary operators 
+//we can also do this with friend functions, for unary operators we can only have a single argument and with binary operators we can have double argument
